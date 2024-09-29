@@ -1,0 +1,104 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "Earrings Afghani Jhumka",
+        "rating": 5,
+        "normalCost": 20,
+        "actualCost": 18,
+        "category": "jwellery",
+        "subCategory": "womens",
+        "image": "https://m.media-amazon.com/images/I/81YXsQzGPpL._SY695_.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Silver Zircon Pendant With Link Chain",
+        "rating": 2,
+        "normalCost": 20,
+        "actualCost": 16,
+        "category": "jwellery",
+        "subCategory": "womens",
+        "image": "https://m.media-amazon.com/images/I/51JZdd-nowL._SY625_.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Yellow Chimes Pendant for Women and Girls",
+        "rating": 5,
+        "normalCost": 20,
+        "actualCost": 14,
+        "category": "jwellery",
+        "subCategory": "womens",
+        "image": "https://m.media-amazon.com/images/I/61BLZ5mC6NL._SY625_.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Sterling Silver Sky Blue Eye Pendant",
+        "rating": 5,
+        "normalCost": 20,
+        "actualCost": 14,
+        "category": "jwellery",
+        "subCategory": "womens",
+        "image": "https://m.media-amazon.com/images/I/51BdY9qL94L._SY695_.jpg"
+      },
+      {
+        "id": 5,
+        "name": "MOONPLUS Silver Work Wear Chain for men",
+        "rating": 5,
+        "normalCost": 20,
+        "actualCost": 14,
+        "category": "jwellery",
+        "subCategory": "mens",
+        "image": "https://m.media-amazon.com/images/I/31CT9DaM2JL.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Stone Studded Choker Necklace",
+        "rating": 4,
+        "normalCost": 20,
+        "actualCost": 14,
+        "category": "jwellery",
+        "subCategory": "womens",
+        "image": "https://m.media-amazon.com/images/I/71SsOr1q7kL._SY625_.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Diamond Necklace Jewellery Set with Earrings for Women and Girls",
+        "rating": 4,
+        "normalCost": 15,
+        "actualCost": 13,
+        "category": "jwellery",
+        "subCategory": "womens",
+        "image": "https://m.media-amazon.com/images/I/818QQGSZhTL._SY625_.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Silver Rose Gold Infinity Pendant Necklace",
+        "rating": 3,
+        "normalCost": 19,
+        "actualCost": 14,
+        "category": "jwellery",
+        "subCategory": "womens",
+        "image": "https://m.media-amazon.com/images/I/61qfO8HAjXL._SY625_.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Alloy Bracelet Decorated With Crystals for Girls",
+        "rating": 5,
+        "normalCost": 11,
+        "actualCost": 9,
+        "category": "jwellery",
+        "subCategory": "womens",
+        "image": "https://m.media-amazon.com/images/I/71NbkTQGTML._SY625_.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Salty Vibrant Blue Winged Butterfly Beauty Pendant Necklace for Women",
+        "rating": 4,
+        "normalCost": 16,
+        "actualCost": 14,
+        "category": "jwellery",
+        "subCategory": "womens",
+        "image": "https://m.media-amazon.com/images/I/61C9Fg7N3+L._SY625_.jpg"
+      }
+    ]
+  }
